@@ -17,3 +17,47 @@ Clause 6: In Taiyang disease, if there is fever and thirst without aversion to c
 第七条 病有发热恶寒者，发于阳也；无热恶寒者，发于阴也。发于阳，七日愈；发于阴，六日愈。以阳数七，阴数六故也。
 Clause 7: If the disease presents with both fever and aversion to cold, it is said to affect the Yang; if there is no fever but aversion to cold, it affects the Yin. When it affects the Yang, it resolves in seven days; when it affects the Yin, it resolves in six days. This is because the Yang is counted as seven and the Yin as six.
 第八条 太阳病，头痛至七日以上自愈者，以行其经尽故也。若欲作再经者，针足阳明，使经不传则愈。
+Clause 8: In Taiyang disease, if headache persists but resolves spontaneously after more than seven days, it is because the course of the channel has been completed. If it is about to progress into another channel, acupuncture on the Foot Yangming should be applied, so that the disease does not transmit and will thus resolve.
+第九条 太阳病欲解时，从巳至未上。
+Clause 9: In Taiyang disease, the time when resolution is about to occur is between the hours of Si (9–11 a.m.) and Wei (1–3 p.m.).
+第十条 风家，表解而不了了者，十二日愈。
+Clause 10: In patients with a Wind condition, if the exterior syndrome is relieved but not completely resolved, recovery will occur on the twelfth day.
+第十一条 病人身大热，反欲得近衣者，热在皮肤，寒在骨髓也；身大寒，反不欲近衣者，寒在皮肤，热在骨髓也。
+Clause 11: When the patient has great heat in the body yet desires to be covered with clothing, it means the heat is on the surface (skin) while cold is in the marrow. When the patient has great cold in the body yet does not wish to be covered with clothing, it means the cold is on the surface while heat is in the marrow.
+第十二条 太阳中风，阳浮而阴弱，阳浮者，热自发；阴弱者，汗自出。啬啬恶寒，淅淅恶风，翕翕发热，鼻鸣干呕者，桂枝汤主之。
+Clause 12: In Taiyang Zhongfeng (Wind Strike), when the yang is floating and the yin is weak—floating yang causes spontaneous fever, and weak yin causes spontaneous sweating. If there is shivering with aversion to cold, aversion to wind with slight chills, alternating sensations of fever, nasal congestion with noisy breathing, and dry retching, then Guizhi Decoction is indicated.
+桂枝汤方 
+桂枝三两（去皮） 芍药三两  甘草二两（炙） 生姜三两（切） 大枣十二枚（劈）
+Guizhi Decoction (Guizhi Tang):
+Guizhi (Cinnamon Twig) 3 liang (with bark removed)
+Shaoyao (Peony Root) 3 liang
+Gancao (Licorice Root, honey-fried) 2 liang
+Shengjiang (Fresh Ginger), sliced, 3 liang
+Dazao (Jujube), split, 12 pieces
+上五味，呋咀三味，以水七升，微火煮取三升，去滓，适寒服，服一升。服已须臾，啜热稀粥一升余，以助药力，遍身漐漐微似有汗者益佳，不可令如水流漓，病必不除。若一服汗出病差，停后服，不必尽剂。若不汗，更服依前法；又不汗，后服小促其间，半日许令三服尽；若病重者，一日一夜服，周时观之；服一剂尽，病症犹在者，更作服；若汗不出，乃服至二三剂。禁生冷、粘滑、肉面、五辛、酒酪、臭恶等物。
+Take the above five ingredients, pound the three solid ones coarsely, and add them all into 7 sheng of water. Boil gently over a low fire until reduced to 3 sheng, then remove the dregs. Divide the decoction, taking 1 sheng warm per dose.
+
+After taking the medicine, wait a short while, then drink about 1 sheng of thin hot rice gruel to assist the action of the decoction. It is best if the whole body begins to sweat slightly, like fine beads of perspiration; it must not pour out like flowing water, otherwise the disease will not be resolved.
+
+If after one dose sweating occurs and the illness is resolved, discontinue further administration—the full prescription need not be finished. If there is no sweating, repeat the dose in the same manner; if still no sweating, shorten the interval between doses so that all three doses are completed within about half a day.
+
+If the illness is severe, administer throughout one day and one night, observing the condition at intervals. If after the full one course the symptoms persist, prepare another course. If no sweating has yet occurred, continue for two or three courses.
+
+Prohibited foods: avoid raw or cold items, sticky or greasy foods, meat and flour-based products, the five pungent spices (onion, garlic, leek, chive, etc.), alcohol, dairy, and foul-smelling substances.
+第十三条 太阳病，头痛，发热，汗出，恶风，桂枝汤主之。
+Clause 13: In Taiyang disease, if there is headache, fever, sweating, and aversion to wind, Guizhi Decoction is indicated.
+第十四条 太阳病，项背强几几，反汗出恶风者，桂枝加葛根汤主之。
+Clause 14: In Taiyang disease, when there is stiffness and rigidity of the nape and back, with spontaneous sweating and aversion to wind, Guizhi Decoction plus Kudzu Root (Ge Gen Tang) is indicated.
+桂枝加葛根汤方
+葛根四两  麻黄三两（去节） 芍药二两 生姜三两（切） 甘草二两（炙） 大枣十二枚（劈） 桂枝二两（去皮）
+Formula of Guizhi Jia Gegen Decoction
+Kudzu root (Radix Puerariae, Gegen) — 4 liang
+Ephedra (Herba Ephedrae, Mahuang, stems with nodes removed) — 3 liang
+Peony root (Radix Paeoniae, Shaoyao) — 2 liang
+Fresh ginger (Rhizoma Zingiberis Recens, Shengjiang, sliced) — 3 liang
+Honey-fried licorice root (Radix Glycyrrhizae Praeparata, Zhi Gancao) — 2 liang
+Jujube (Fructus Jujubae, Dazao, split) — 12 pieces
+Cinnamon twig (Ramulus Cinnamomi, Guizhi, bark removed) — 2 liang
+上七味，以水一斗，先煮麻黄、葛根，减二升，去上沫，内诸药，煮取三升，去滓。温服一升，覆取微似汗，不须啜粥，余桂枝法将息及禁忌。臣亿等谨按：仲景本论，太阳中风自汗用桂枝，伤寒无汗用麻黄。今证云汗出恶风，而方中用麻黄，恐非本意也。第三卷有葛根汤证云：无汗恶风，正与此方同，是合用麻黄也。此云桂枝加葛根汤，恐是桂枝中加葛根尔。
+Decoct the seven ingredients with one dou (about 2 liters) of water. First boil the Ephedra (Mahuang) and Kudzu root (Gegen), reduce by two sheng, and remove the froth. Then add the remaining herbs, boil until three sheng remain, and strain out the dregs. Warm one sheng is taken; after administration, cover the patient to induce a slight sweat. There is no need to take congee afterward. The methods of convalescent care and dietary prohibitions follow the same rules as with Guizhi Tang.
+臣亿 and others respectfully comment: In Zhang Zhongjing’s original Treatise, spontaneous sweating in Taiyang wind-strike is treated with Guizhi Tang, whereas absence of sweating in cold damage is treated with Mahuang Tang. In the present clause, the symptoms are sweating with aversion to wind, yet Mahuang is included in the prescription, which may not be the original intent. In the third scroll, the formula Gegen Tang is indicated for ‘absence of sweating with aversion to wind,’ which accords precisely with the present symptoms, hence Mahuang is appropriate. Since this formula is named Guizhi Jia Gegen Tang (‘Guizhi Decoction plus Kudzu Root’), it may in fact mean simply adding Kudzu root to Guizhi Tang.
