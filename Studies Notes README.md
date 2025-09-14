@@ -61,3 +61,40 @@ Cinnamon twig (Ramulus Cinnamomi, Guizhi, bark removed) — 2 liang
 上七味，以水一斗，先煮麻黄、葛根，减二升，去上沫，内诸药，煮取三升，去滓。温服一升，覆取微似汗，不须啜粥，余桂枝法将息及禁忌。臣亿等谨按：仲景本论，太阳中风自汗用桂枝，伤寒无汗用麻黄。今证云汗出恶风，而方中用麻黄，恐非本意也。第三卷有葛根汤证云：无汗恶风，正与此方同，是合用麻黄也。此云桂枝加葛根汤，恐是桂枝中加葛根尔。
 Decoct the seven ingredients with one dou (about 2 liters) of water. First boil the Ephedra (Mahuang) and Kudzu root (Gegen), reduce by two sheng, and remove the froth. Then add the remaining herbs, boil until three sheng remain, and strain out the dregs. Warm one sheng is taken; after administration, cover the patient to induce a slight sweat. There is no need to take congee afterward. The methods of convalescent care and dietary prohibitions follow the same rules as with Guizhi Tang.
 臣亿 and others respectfully comment: In Zhang Zhongjing’s original Treatise, spontaneous sweating in Taiyang wind-strike is treated with Guizhi Tang, whereas absence of sweating in cold damage is treated with Mahuang Tang. In the present clause, the symptoms are sweating with aversion to wind, yet Mahuang is included in the prescription, which may not be the original intent. In the third scroll, the formula Gegen Tang is indicated for ‘absence of sweating with aversion to wind,’ which accords precisely with the present symptoms, hence Mahuang is appropriate. Since this formula is named Guizhi Jia Gegen Tang (‘Guizhi Decoction plus Kudzu Root’), it may in fact mean simply adding Kudzu root to Guizhi Tang.
+第十五条 太阳病，下之后，其气上冲者，可与桂枝汤，方用前法。若不上冲者，不得与之。
+Clause 15: In Taiyang disease, after purgation, if the qi surges upward, Guizhi Decoction may be given, using the same method as before. If there is no upward surging, it must not be administered.
+第十六条 太阳病三日，已发汗，若吐，若下，若温针，仍不解者，此为坏病，桂枝不中与之也。观其脉症，知犯何逆，随证治之。桂枝本为解肌，若其人脉浮紧，发热汗不出者，不可与之也。常须识此，勿令误也。
+Clause 16: In Taiyang disease lasting three days, if sweating, vomiting, purgation, or moxibustion has already been attempted and the disorder still does not resolve, this is a spoiled (complicated) condition, and Guizhi Decoction is no longer suitable. One should examine the pulse and symptoms to determine which error has been committed, and treat according to the presentation. Guizhi Decoction is originally intended to release the muscle (surface). If the patient’s pulse is floating and tight, with fever but no sweating, it must not be given. This should always be kept in mind to avoid mistakes.
+第十七条 若酒客病，不可与桂枝汤，得之则呕，以酒客不喜甘故也。
+Clause 17: For patients who are habitual drinkers of alcohol, Guizhi Decoction must not be given. If administered, it will induce vomiting, because those accustomed to alcohol dislike sweetness.
+第十八条 喘家作，桂枝汤加厚朴杏子佳。
+Clause 18: For patients with a history of dyspnea or asthma, when an attack occurs, it is appropriate to use Guizhi Decoction with the addition of Magnolia Bark (Houpo) and Apricot Kernel (Xingzi).
+桂枝加厚朴杏子汤方
+桂枝三两（去皮） 甘草二两（炙） 生姜三两（切） 芍药三两 大枣十二枚（劈） 厚朴二两（炙，去皮） 杏仁五十枚（去皮尖）
+Guizhi Decoction with Magnolia Bark and Apricot Kernel (Guizhi Jia Houpo Xingzi Tang)
+Cinnamon Twig (Ramulus Cinnamomi, Guizhi) — 3 liang (with bark removed)
+Honey-fried Licorice Root (Radix Glycyrrhizae Praeparata cum Melle, Zhigancao) — 2 liang
+Fresh Ginger (Rhizoma Zingiberis Recens, Shengjiang) — 3 liang (sliced)
+White Peony Root (Radix Paeoniae Alba, Shaoyao) — 3 liang
+Jujube (Fructus Jujubae, Dazao) — 12 pieces (pitted or cut open)
+Magnolia Bark (Cortex Magnoliae Officinalis, Houpo) — 2 liang (honey-fried, bark removed)
+Apricot Kernel (Semen Armeniacae Amarum, Xingren) — 50 pieces (peeled, tips removed)
+上七味，以水七升，微火煮取三升，去滓，温服一升，覆取微似汗。
+Decoct the above seven ingredients with seven sheng (about 1400 ml) of water over low heat until three sheng (about 600 ml) remain. Strain out the dregs. Take one sheng (about 200 ml) warm, and cover the patient to induce a slight sweat.
+第十九条 凡服桂枝汤吐者，其后必吐脓血也。
+Article 19: For those who vomit after taking Guizhi Decoction, they will subsequently vomit pus and blood.
+第二十条 太阳病，发汗，遂漏不止，其人恶风，小便难，四肢微急，难以屈伸者，桂枝加附子汤主之。
+Article 20: In a Taiyang disorder, after sweating, if the sweat continues to leak without stopping, and the patient fears wind, has difficulty urinating, experiences slight rigidity of the limbs, and finds it hard to flex or extend, Guizhi Decoction plus Aconite (Guizhi Jia Fuzi Tang) is indicated.
+第二十一条 太阳病，下之后，脉促胸满者，桂枝去芍药汤主之。
+Article 21: In a Taiyang disorder, after purgation, if the pulse is rapid and there is fullness in the chest, Guizhi Decoction minus Shaoyao (Guizhi Qu Shaoyao Tang) is indicated.
+桂枝去芍药汤方
+桂枝三两（去皮） 甘草二两（炙） 生姜三两（切） 大枣十二枚（劈）
+Formula of Guizhi Decoction minus Shaoyao:
+Cinnamon Twig (Guizhi) — 3 liang (with bark removed)
+Licorice (Gancao), honey-fried — 2 liang
+Fresh Ginger (Shengjiang), sliced — 3 liang
+Jujube (Dazao), pitted and split — 12 pieces
+上四味，以水七升，煮取三升，去渣，温服一升。本云：桂枝汤，今去芍药。将息如前法。
+Decoction Method:
+Decoct the above four ingredients in 7 sheng of water until 3 sheng remain. Remove the dregs and take 1 sheng warm.
+Note: This formula is originally Guizhi Decoction, but with Shaoyao removed. The method of convalescent care and dietary prohibitions should follow the same rules as in the original Guizhi Decoction.
