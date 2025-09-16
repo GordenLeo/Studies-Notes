@@ -98,3 +98,43 @@ Jujube (Dazao), pitted and split — 12 pieces
 Decoction Method:
 Decoct the above four ingredients in 7 sheng of water until 3 sheng remain. Remove the dregs and take 1 sheng warm.
 Note: This formula is originally Guizhi Decoction, but with Shaoyao removed. The method of convalescent care and dietary prohibitions should follow the same rules as in the original Guizhi Decoction.
+第二十二条 若微寒者，桂枝去芍药加附子汤主之。
+Article 22 If the patient presents with slight aversion to cold, Guizhi Decoction minus Shaoyao plus Aconite (Fuzi) Decoction is indicated.
+桂枝去芍药加附子汤方 
+桂枝三两（去皮）甘草二两（炙）生姜三两（切）大枣十二枚（劈）附子一枚（炮，去皮，破八片）
+Formula of Guizhi Decoction minus Shaoyao plus Aconite (Fuzi)：
+Cinnamon Twig (Ramulus Cinnamomi, Guizhi) — 9 g (peeled)
+Prepared Licorice (Radix Glycyrrhizae Praeparata, Zhi Gancao) — 6 g
+Fresh Ginger (Rhizoma Zingiberis Recens, Shengjiang) — 9 g (sliced)
+Jujube (Fructus Jujubae, Dazao) — 12 pieces (pitted and split)
+Prepared Aconite (Radix Aconiti Lateralis Praeparata, Fuzi) — 1 piece (processed, peeled, divided into 8 parts; approx. 6–10 g)
+上五味，以水七升，煮取三升，去滓，温服一升。本云：桂枝汤，今去芍药，加附子。将息如前法。
+Decoct the above five ingredients in 7 sheng of water until 3 sheng remain. Remove the dregs and take 1 sheng warm.
+This is essentially Guizhi Decoction, but with Shaoyao removed and Aconite (Fuzi) added. The method of convalescent care and dietary prohibitions should follow the same as in the original Guizhi Decoction.
+第二十三条 太阳病，得之八九日，如疟状，发热恶寒，热多寒少，其人不呕，清便欲自可，一日二三度发。脉微缓者，为欲愈也；脉微而恶寒者，此阴阳俱虚，不可更发汗、更下、更吐也；面色反有热色者，未欲解也，以其不能得小汗出，身必痒，宜桂枝麻黄各半汤。
+Article 23:
+In a Taiyang disorder, after eight or nine days, the condition may resemble malaria, with alternating fever and aversion to cold, with fever predominating over chills. The patient does not vomit, and urination is normal. The fever attacks occur two or three times daily.
+If the pulse is slightly relaxed, this indicates recovery. If the pulse is faint and there is aversion to cold, this reflects simultaneous deficiency of yin and yang, and sweating, purgation, or emesis must not be attempted. If the complexion shows a flushed heat, the disorder has not yet resolved; since the patient cannot produce even a slight sweat, generalized itching will occur.
+Guizhi-Mahuang Decoction Half-and-Half (Guizhi Mahuang Ge Ban Tang) is indicated.
+桂枝麻黄各半汤方 
+桂枝一两十六铢（去皮） 芍药 生姜（切） 甘草（炙）麻黄（去节）各一两 大枣四枚（劈） 杏仁二十四枚（汤浸，去皮尖及两仁者）
+Formula of Guizhi-Mahuang Decoction Half-and-Half, Guizhi Mahuang Ge Ban Tang：
+Cinnamon Twig (Guizhi) — 1 liang 16 zhu (≈ 45 g, peeled)
+White Peony Root (Shaoyao) — 1 liang (≈ 30 g)
+Fresh Ginger (Shengjiang) — 1 liang (≈ 30 g, sliced)
+Prepared Licorice (Zhigancao) — 1 liang (≈ 30 g, honey-fried)
+Ephedra (Mahuang) — 1 liang (≈ 30 g, nodes removed)
+Jujube (Dazao) — 4 pieces (split)
+Apricot Kernel (Xingren) — 24 pieces (soaked, peeled, tips and double kernels removed)
+上七味，以水五升，先煮麻黄，去上沫，内诸药，煮取一升八合，去滓，温服六合。本云，桂枝汤三合，麻黄汤三合，并为六合，顿服。将息如上法。 臣亿等谨按：桂枝汤方，桂枝、芍药、生姜各三两，甘草二两，大枣十二枚。麻黄汤方，麻黄三两，桂枝二两，甘草一两，杏仁七十个。今以算法约之，二汤各取三分之一，即得桂枝一两十六铢，芍药、生姜、甘草各一两，大枣四枚，杏仁二十三个另三分枚之一，收之得二十四个，合方。详此方乃三分之一，非各半也，宜云各半汤。
+Decoct the above seven ingredients in 5 sheng of water, first boiling the Ephedra (Mahuang) and skimming off the foam. Then add the remaining herbs and continue decocting until 1 sheng 8 he remain. Strain out the dregs and take 6 he warm.
+Originally, this method combined 3 he of Guizhi Decoction and 3 he of Mahuang Decoction, taking a total of 6 he in one dose, following the same convalescent care and dietary restrictions as previously described.
+According to Minister Yi’s careful calculation:
+Guizhi Decoction: Cinnamon Twig (Guizhi), White Peony Root (Shaoyao), and Fresh Ginger (Shengjiang) each 3 liang; Prepared Licorice (Zhigancao) 2 liang; Jujube (Dazao) 12 pieces.
+Mahuang Decoction: Ephedra (Mahuang) 3 liang; Cinnamon Twig (Guizhi) 2 liang; Prepared Licorice (Zhigancao) 1 liang; Apricot Kernel (Xingren) 70 pieces.
+Using the calculation method, one-third of each decoction was taken:
+Cinnamon Twig 1 liang 16 zhu
+White Peony Root, Fresh Ginger, Prepared Licorice each 1 liang
+Jujube 4 pieces
+Apricot Kernel 23 pieces + 1/3 piece = 24 pieces
+This combined formula is thus one-third of the original decoctions, not literally “half-and-half”; therefore it is appropriately called Guizhi-Mahuang Decoction Half-and-Half (Guizhi Mahuang Ge Ban Tang).
