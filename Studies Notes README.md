@@ -138,3 +138,63 @@ White Peony Root, Fresh Ginger, Prepared Licorice each 1 liang
 Jujube 4 pieces
 Apricot Kernel 23 pieces + 1/3 piece = 24 pieces
 This combined formula is thus one-third of the original decoctions, not literally “half-and-half”; therefore it is appropriately called Guizhi-Mahuang Decoction Half-and-Half (Guizhi Mahuang Ge Ban Tang).
+第二十四条 太阳病，初服桂枝汤，反烦不解者，先刺风池、风府，却与桂枝汤则愈。
+Article 24:In a Taiyang disorder, if the patient becomes restless and does not improve after initially taking Guizhi Decoction, first perform acupuncture at Fengchi (GB20) and Fengfu (DU16). Then, administering Guizhi Decoction again will lead to recovery.
+第二十五条 服桂枝汤，大汗出，脉洪大者，与桂枝汤，如前法。若形似疟，一日再发者，汗出必解，宜桂枝二麻黄一汤。
+Article 25:
+In a Taiyang disorder, if after taking Guizhi Decoction there is profuse sweating and a large, flooding pulse, administer Guizhi Decoction again following the previous method.
+If the presentation resembles malaria, with alternating chills and fever occurring twice daily, spontaneous sweating will bring resolution. In such cases, Guizhi Decoction with Two Parts Guizhi and One Part Mahuang (Guizhi Er Mahuang Yi Tang) is indicated.
+桂枝二麻黄一汤方
+桂枝一两十七铢（去皮） 芍药一两六铢 麻黄十六铢（去节） 生姜一两六铢 杏仁十六个（去皮尖） 甘草一两二铢（炙） 大枣五枚（劈）
+Formula of Guizhi Er Mahuang Yi Tang, Guizhi with Two Parts Guizhi and One Part Mahuang Decoction：
+Cinnamon Twig (Guizhi) — 1 liang 17 zhu (≈ 46 g, peeled)
+White Peony Root (Shaoyao) — 1 liang 6 zhu (≈ 34 g)
+Ephedra (Mahuang) — 16 zhu (≈ 20 g, nodes removed)
+Fresh Ginger (Shengjiang) — 1 liang 6 zhu (≈ 34 g, sliced)
+Apricot Kernel (Xingren) — 16 pieces (peeled, tips removed)
+Prepared Licorice (Zhigancao) — 1 liang 2 zhu (≈ 31 g, honey-fried)
+Jujube (Dazao) — 5 pieces (split)
+上七味，以水五升，先煮麻黄一二沸，去上沫，内诸药，煮取二升，去滓，温服一升，日在服。本云：桂枝汤二分，麻黄汤一分，何为二升，分再服。今合为一方，将息如前法。 臣亿等谨按：桂枝汤方，桂枝、芍药、生姜各三两，甘草二两，大枣十二枚。麻黄汤方，麻黄三两，桂枝二两，甘草一两，杏仁七十个。今以算法约之，桂枝汤取十二分之五，即得桂枝、芍药、生姜各一两六铢，甘草十二铢，大枣五枚。麻黄汤取九分之二，即得麻黄十六铢，桂枝十铢三分铢之二，收之得十一铢，甘草五铢三分铢之一，收之得六铢，杏仁十五个九分枚之四，收之得十六个。二汤所取相合，即共得桂枝一两十七铢，麻黄十六铢，生姜、芍药各一两六铢，甘草一两二铢，大枣五枚，杏仁十六个，合方。
+Decoct the above seven ingredients in five sheng of water. First boil the Ephedra (Mahuang) once or twice and remove the froth. Add the remaining herbs and boil until two sheng remain. Remove the dregs and take one sheng warm; take during the day. The text says: “Two parts of Guizhi Decoction and one part of Mahuang Decoction,” so why does it become two sheng, divided into two doses? Now it is combined into one formula; convalescent care is the same as before.
+Minister Yi and others respectfully note: Guizhi Decoction consists of Guizhi, Shaoyao, and Shengjiang, three liang each; Gancao, two liang; and Dazao, twelve pieces. Mahuang Decoction consists of Mahuang, three liang; Guizhi, two liang; Gancao, one liang; and Xingren, seventy pieces. Now, by calculation, taking five twelfths of Guizhi Decoction yields Guizhi, Shaoyao, and Shengjiang, one liang six zhu each; Gancao, twelve zhu; Dazao, five pieces. Taking two ninths of Mahuang Decoction yields Mahuang, sixteen zhu; Guizhi, ten zhu and two-thirds, rounded to eleven zhu; Gancao, five zhu and one-third, rounded to six zhu; Xingren, fifteen and four-ninths, rounded to sixteen. The combined amounts are: Guizhi, one liang seventeen zhu; Mahuang, sixteen zhu; Shengjiang and Shaoyao, one liang six zhu each; Gancao, one liang two zhu; Dazao, five pieces; Xingren, sixteen pieces. This is the combined formula.
+第二十六条 服桂枝汤，大汗出后，大烦渴不解，脉洪大者，白虎加人参汤主之。
+Article 26: In a Taiyang disorder, after taking Guizhi Decoction, if there is profuse sweating followed by intense vexation and unquenchable thirst, with a surging and large pulse, Baihu Decoction with Ginseng (Baihu Jia Renshen Tang) is indicated.
+白虎加人参汤方 
+知母六两 石膏一斤（碎，绵裹） 甘草二两（炙） 粳米六合 人参三两
+Baihu Decoction with Ginseng (Baihu Jia Renshen Tang)：
+Anemarrhena Rhizome (Zhimu) – 6 liang ≈ 83 g
+Gypsum Fibrosum (Shigao), crushed and wrapped in cloth – 1 jin (16 liang) ≈ 221 g
+Honey-fried Licorice Root (Gancao) – 2 liang ≈ 27 g
+Non-glutinous Rice (Jingmi) – 6 he ≈ 90 g
+Ginseng (Renshen) – 3 liang ≈ 41 g
+上五味，以水一斗，煮米熟汤成，去滓，温服一升，日三服。
+Decoct the above five ingredients in 1 dou (≈ 10–11 liters) of water, cook the rice until done and a soup forms. Strain out the dregs, take 1 sheng (≈ 1.04 liters) warm, three times a day.
+第二十七条 太阳病，发热恶寒，热多寒少。脉微弱者，此无阳也，不可发汗。宜桂枝二越婢一汤。
+Article 27:
+In a Taiyang disorder, if there is fever with aversion to cold, with more heat than cold, and the pulse is faint and weak, this indicates absence of Yang, and sweating should not be induced. Guizhi Decoction with two Yuebi (Guizhi Er Yuebi Tang) is indicated.
+桂枝二越婢一汤方 
+桂枝（去皮） 芍药 麻黄 甘草各十八铢（炙） 大枣四枚（劈） 生姜一两二铢（切） 石膏二十四铢（碎，绵裹）
+Guizhi Decoction with Two Yuebi (Guizhi Er Yuebi Tang)：
+Cinnamon Twig (Guizhi, peeled) — 18 zhu ≈ 25 g
+Peony Root (Shaoyao) — 18 zhu ≈ 25 g
+Ephedra (Mahuang) — 18 zhu ≈ 25 g
+Honey-fried Licorice Root (Gancao) — 18 zhu ≈ 25 g
+Jujube (Dazao), split — 4 pieces ≈ 40 g (approximate, depending on fruit size)
+Fresh Ginger (Shengjiang), sliced — 1 liang 2 zhu ≈ 19 g
+Gypsum Fibrosum (Shigao), crushed and wrapped in cloth — 24 zhu ≈ 33 g
+上七味，以水五升，先煮麻黄一二沸，去上沫，内诸药，煮取二升，去滓，温服一升。本云：当裁为越婢汤、桂枝汤合之，饮一升。今合为一方，桂枝汤二分，越婢汤一分。 臣亿等谨按：桂枝汤方，桂枝、芍药、生姜各三两，甘草二两，大枣十二枚。越婢汤方，麻黄二两，生姜三两，甘草二两，石膏半斤，大枣十五枚。今以算法约之，桂枝汤取四分之一，即得桂枝、芍药、生姜各十八铢，甘草十二铢，大枣三枚。越婢汤取八分之一，即得麻黄十八铢，生姜九铢，甘草六铢，石膏二十四铢，大枣一枚，八分之七弃之，二汤所取相合，即共得桂枝、芍药、甘草、麻黄各十八铢，生姜一两三株，石膏二十四铢，大枣四枚，合方。旧云桂枝三，今取四分之一，即当云桂枝二也。越婢汤方见仲景杂方中，《外台密要》一云越婢汤。
+Decoct the above seven ingredients in 5 sheng (~5.2 liters) of water. First, boil the Ephedra (Mahuang) once or twice and remove the froth. Add the remaining herbs and boil until 2 sheng (~2.1 liters) remain. Remove the dregs and take 1 sheng (~1.04 liters) warm.
+The text states: “Adjust as Yuebi Decoction and Guizhi Decoction combined, take 1 sheng.” Now it is combined into one formula: two parts Guizhi Decoction, one part Yuebi Decoction.
+Minister Yi and others respectfully note:
+Guizhi Decoction formula: Guizhi, Shaoyao, Shengjiang, 3 liang each; Gancao 2 liang; Dazao 12 pieces.
+Yuebi Decoction formula: Mahuang 2 liang; Shengjiang 3 liang; Gancao 2 liang; Shigao ½ jin (~110 g); Dazao 15 pieces.
+By calculation:
+Take ¼ of Guizhi Decoction: Guizhi, Shaoyao, Shengjiang 18 zhu (~25 g) each; Gancao 12 zhu (~16 g); Dazao 3 pieces (~30 g).
+Take 1/8 of Yuebi Decoction: Mahuang 18 zhu (~25 g); Shengjiang 9 zhu (~12 g); Gancao 6 zhu (~8 g); Shigao 24 zhu (~33 g); Dazao 1 piece (~10 g). The remaining 7/8 is discarded.
+Combining the two portions gives:
+Guizhi, Shaoyao, Gancao, Mahuang 18 zhu (~25 g) each
+Shengjiang 1 liang 3 zhu (~19 g)
+Shigao 24 zhu (~33 g)
+Dazao 4 pieces (~40 g)
+This is the combined formula.
+The original text mentions Guizhi 3, now taking ¼ corresponds to Guizhi 2. Yuebi Decoction formula can be found in Zhang Zhongjing’s miscellaneous formulas; in Wai Tai Mi Yao it is referred to as Yuebi Decoction.
