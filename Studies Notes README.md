@@ -199,10 +199,24 @@ Dazao 4 pieces (~40 g)
 This is the combined formula.
 The original text mentions Guizhi 3, now taking ¼ corresponds to Guizhi 2. Yuebi Decoction formula can be found in Zhang Zhongjing’s miscellaneous formulas; in Wai Tai Mi Yao it is referred to as Yuebi Decoction.
 第二十八条 服桂枝汤，或下之，仍头项强痛，翕翕发热，无汗，心下满微痛，小便不利者，桂枝去桂加茯苓白术汤主之。
+Article 28：After taking Guizhi Decoction, or after being purged, if the patient still has stiffness and pain in the head and neck, alternating fever sensations without sweating, fullness with slight pain below the heart, and difficulty in urination, it is indicated to treat with Guizhi Decoction minus Guizhi plus Fuling and Baizhu Decoction.
 桂枝去桂加茯苓白术汤方
 芍药三两 甘草二两(炙) 生姜(切) 白术 茯苓各三两 大枣十二枚(劈)
+Guizhi Decoction minus Guizhi plus Fuling and Baizhu Decoction (Guizhi Qu Gui Jia Fuling Baizhu Tang):
+Peony Root (Shaoyao) — 3 liang ≈ 39 g
+Honey-fried Licorice Root (Gancao, honey-prepared) — 2 liang ≈ 26 g
+Fresh Ginger (Shengjiang, sliced) — 3 liang ≈ 39 g
+Atractylodes Rhizome (Baizhu) — 3 liang ≈ 39 g
+Poria (Fuling) — 3 liang ≈ 39 g
+Jujube (Dazao, split) — 12 pieces ≈ 72 g (approximate, depending on fruit size)
 上六味，以水八升，煮取三升，去滓，温服一升。小便利则愈。本云:桂枝汤，今去桂枝，加茯苓、白术。
+Decoct the above six ingredients in 1.6 liters (8 sheng) of water until about 600 ml (3 sheng) remain. Remove the dregs, and take 200 ml (1 sheng) warm each time. When urination becomes smooth, the disorder will resolve.
+Originally, this was Guizhi Decoction; here Guizhi (Cinnamon Twig) is removed, and Fuling (Poria) and Baizhu (Atractylodes Rhizome) are added.
 第二十九条 伤寒脉浮，自汗出，小便数，心烦，微恶寒，脚挛急，反与桂枝汤，欲攻其表，此误也。得之便厥，咽中干，烦躁，吐逆者，作甘草干姜汤与之，以复其阳;若厥愈足温者，更作芍药甘草汤与之，其脚即伸。若胃气不和，谵语者，少于调味承气汤;若重发汗，复加烧针者，四逆汤主之。
+Article 29：In cold damage (Shanghan), if the pulse is floating, there is spontaneous sweating, frequent urination, vexation in the heart, slight aversion to cold, and cramping tightness of the legs, yet Guizhi Decoction (Guizhi Tang) is mistakenly given to attack the exterior, this is an error. As a result, there will be sudden collapse with reversal cold (jue), dryness in the throat, agitation and restlessness, and vomiting with counterflow. In such a case, Licorice and Dried Ginger Decoction (Gancao Ganjiang Tang) should be administered to restore yang.
+If the reversal resolves and the feet become warm, then administer Peony and Licorice Decoction (Shaoyao Gancao Tang), whereby the legs will extend (the cramping will be relieved).
+If the stomach qi is disharmonious, leading to delirious speech, then give a small dose of Regulating Chengqi Decoction (Tiaowei Chengqi Tang).
+If excessive sweating has been induced again, and in addition moxibustion with heated needles has been applied, then Sini Decoction (Sini Tang) is indicated.
 甘草干姜汤方
 甘草四两(炙) 干姜二两
 上二味，以水三升，煮取一升五合，去滓，分温再服。
