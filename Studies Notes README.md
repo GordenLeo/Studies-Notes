@@ -219,14 +219,41 @@ If the stomach qi is disharmonious, leading to delirious speech, then give a sma
 If excessive sweating has been induced again, and in addition moxibustion with heated needles has been applied, then Sini Decoction (Sini Tang) is indicated.
 甘草干姜汤方
 甘草四两(炙) 干姜二两
+Licorice and Dried Ginger Decoction (Gancao Ganjiang Tang)：
+Honey-fried Licorice Root (Gancao,honey-prepared) — 4 liang ≈ 60 g
+Dried Ginger (Ganjiang) — 2 liang ≈ 30 g
 上二味，以水三升，煮取一升五合，去滓，分温再服。
+Preparation:Decoct the above two ingredients in 6 sheng (≈ 1200 mL) of water until reduced to 1 sheng 5 ge (≈ 300 mL). Remove the dregs. Divide into two doses and take warm.
 芍药甘草汤方
 芍药 甘草(炙)各四两
+Peony and Licorice Decoction (Shaoyao Gancao Tang)：
+Peony Root (Shaoyao) — 4 liang ≈ 60 g
+Honey-fried Licorice Root (Gancao, honey-prepared) — 4 liang ≈ 60 g
 上两味，以水三升，煮取一升五合，去滓，分温再服。
-调味称其汤方
-大黄四两(去皮，清酒洗)甘草二两(炙)芒硝半升
+Preparation:
+Decoct the above two ingredients in 6 sheng (≈ 1200 mL) of water until reduced to 1 sheng 5 ge (≈ 300 mL). Remove the dregs. Divide into two doses and take warm.
+调胃承气汤方
+大黄四两(去皮，清酒洗) 甘草二两(炙) 芒硝半升
+Tiaowei Chengqi Decoction (Regulate the Stomach and Order the Qi Decoction)：
+Rhubarb Root (Dahuang, peeled, washed with rice wine) — 4 liang ≈ 60 g
+Honey-fried Licorice Root (Gancao, Honey-prepared) — 2 liang ≈ 30 g
+Glauber’s Salt / Mirabilitum (Mangxiao) — 0.5 sheng ≈ 100 g
 上三味，以水三升，煮取一升，去滓，内芒硝，更上火微煮令沸，少少温服。
+Preparation:
+Decoct Rhubarb and Licorice in 6 sheng (≈ 1200 mL) of water until reduced to 2 sheng (≈ 400 mL). Remove the dregs, then add Mangxiao and bring briefly to a boil. Administer warm, little by little, until finished.
 四逆汤方
 甘草二两(炙)干姜一两半附子一枚(生用，去皮，破八片)
+Sini Decoction (Sini Tang)：
+Honey-fried Licorice Root (Gancao, 炙) — 2 liang ≈ 30 g
+Dried Ginger (Ganjiang) — 1.5 liang ≈ 20 g
+Aconite Root (Fuzi, raw, peeled, broken into 8 pieces) — 1 piece ≈ 30 g
 上三味，以水三升，煮取一升二合，去滓，分温再服，强人可大附子一枚，干姜三两。
+Preparation:
+Decoct the above three ingredients in 6 sheng (≈ 1200 mL) of water until about 1 sheng 2 ge (≈ 280 mL) remain. Remove the dregs, and take warm in divided doses.
+For strong patients, a larger dose of Fuzi (1 whole piece ≈ 30 g) and Dried Ginger 3 liang ≈ 39 g can be used.
 第三十条 问曰：证象阳旦，按法治之而增剧，厥逆，咽中干，两胫拘急而谵语。师曰：言夜半手足当温，两脚当伸。后如师言，何以如此？答曰：寸口脉浮而大，浮为风，大为虚，风则生微热，虚则两痉挛，病型象桂枝，因加附子参其间，增桂令汗出，附子温经，亡阳故也。厥逆咽中干，烦躁，阳明内结，谵语烦乱，更饮甘草干姜汤，夜半阳气还，两组当热，胫尚微拘急，重于芍药甘草汤，而乃胫伸，以承气汤微溏，则止其谵语，故知病可愈。
+Article 30：Question: The patient’s signs were yang-morning type (Yang Dan). Following the standard treatment, the condition worsened, with reversal cold (jue), dryness in the throat, cramping tightness of both lower legs, and delirious speech.
+The master said: “By midnight, the hands and feet should be warm, and the legs should be able to extend.” Later, following the master’s instructions, the patient’s condition improved. Why was this so?
+Answer: At the inch pulse, it was floating and large. Floating indicates wind, and large indicates deficiency. Wind generates mild heat, and deficiency causes spasms of both legs. The disease pattern resembled Guizhi (Cinnamon Twig) syndrome, so Fuzi (Aconite) was added to the prescription, increasing Guizhi to induce sweating. Fuzi warms the channels, restoring yang that was lost.
+With reversal cold, throat dryness, vexation, interior binding of Yangming, and delirious agitation, Licorice and Dried Ginger Decoction (Gancao Ganjiang Tang) was administered again. By midnight, yang qi returned, hands and feet were warm, and the lower legs, still slightly cramping, were further treated with Peony and Licorice Decoction (Shaoyao Gancao Tang), which allowed the legs to extend.
+When a slightly loose stool appeared from the Regulating Chengqi Decoction (Tiaowei Chengqi Tang), delirious speech ceased. Thus, the disease was understood to be curable.
