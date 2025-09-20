@@ -258,3 +258,21 @@ Answer: At the inch pulse, it was floating and large. Floating indicates wind, a
 With reversal cold, throat dryness, vexation, interior binding of Yangming, and delirious agitation, Licorice and Dried Ginger Decoction (Gancao Ganjiang Tang) was administered again. By midnight, yang qi returned, hands and feet were warm, and the lower legs, still slightly cramping, were further treated with Peony and Licorice Decoction (Shaoyao Gancao Tang), which allowed the legs to extend.
 When a slightly loose stool appeared from the Regulating Chengqi Decoction (Tiaowei Chengqi Tang), delirious speech ceased. Thus, the disease was understood to be curable.
 第二章 辩太阳病脉证并治（中）
+Chapter 2: Differentiation of Taiyang Disorders—Pulse, Symptoms, and Treatments (Part 2)
+第三十一条 太阳病项背强几几，无汗恶风，葛根汤主之。
+Article 31：In a Taiyang disorder, when the nape and back are stiff and tight, with absence of sweating and aversion to wind, Gegen Decoction (Ge Gen Tang) is indicated.
+葛根汤方
+葛根四两 麻黄三两（去节） 桂枝二两（去皮） 生姜三两（切） 甘草二两（炙）芍药二两 大枣十二枚（擘）
+Gegen Decoction (Ge Gen Tang) Formula：
+Kudzu Root (Gegen) — 4 liang ≈ 150 g
+Ephedra (Mahuang, nodes removed) — 3 liang ≈ 113 g
+Cinnamon Twig (Guizhi, peeled) — 2 liang ≈ 75 g
+Fresh Ginger (Shengjiang, sliced) — 3 liang ≈ 113 g
+Honey-fried Licorice Root (Gancao) — 2 liang ≈ 75 g
+Peony Root (Shaoyao) — 2 liang ≈ 75 g
+Jujube (Dazao, split) — 12 pieces ≈ 120 g (depending on fruit size)
+上七味，以水一斗，先煮麻黄、葛根，减二升，去白沫，内诸药，煮取三升，去滓，温服一升，覆取微似汗。余如桂枝法将息及禁忌。
+Preparation and Administration
+Decoct the seven ingredients in 1 dou of water (≈ 2 liters). First boil Ephedra and Kudzu Root until the volume is reduced by 2 sheng (≈ 400 ml), remove the froth, then add the remaining herbs. Continue decocting until 3 sheng (≈ 600 ml) remain. Remove the dregs, and take 1 sheng (≈ 200 ml) warm per dose. After ingestion, cover up to induce a slight sweat.
+Convalescence, regimen, and prohibitions are as prescribed for Guizhi Decoction (Guizhi Tang).
+第三十二条 太阳与阳明合病者，必自下利，葛根汤主之。
