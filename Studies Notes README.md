@@ -276,3 +276,9 @@ Preparation and Administration
 Decoct the seven ingredients in 1 dou of water (≈ 2 liters). First boil Ephedra and Kudzu Root until the volume is reduced by 2 sheng (≈ 400 ml), remove the froth, then add the remaining herbs. Continue decocting until 3 sheng (≈ 600 ml) remain. Remove the dregs, and take 1 sheng (≈ 200 ml) warm per dose. After ingestion, cover up to induce a slight sweat.
 Convalescence, regimen, and prohibitions are as prescribed for Guizhi Decoction (Guizhi Tang).
 第三十二条 太阳与阳明合病者，必自下利，葛根汤主之。
+第三十三条 太阳与阳明合病，不下利，但呕者，葛根加半夏汤主之。
+葛根加半夏汤
+葛根四两  麻黄三两（去节）  甘草二两（炙） 芍药二两  桂枝二两（去皮） 生姜二两（切）  半夏半升（洗） 大枣十二枚（擘）
+上八味，以水一斗，先煮葛根、麻黄，减二升，去白沫，内诸药，煮取三升，去滓，温服一升。覆取微似汗。
+
+
