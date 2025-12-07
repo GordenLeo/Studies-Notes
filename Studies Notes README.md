@@ -290,3 +290,19 @@ Convalescence, regimen, and prohibitions are as prescribed for Guizhi Decoction 
 上四味，以水九升，先煮麻黄，减二升，去上沫，内诸药，煮取二升半，去滓，温服八合。覆取微似汗，不须啜粥，余如桂枝法将息。
 第三十六条 太阳与阳明合病，喘而胸满者，不可下，宜麻黄汤。
 第三十七条 太阳病，十日以去，脉浮细而嗜卧者，外已解也。设胸满胁痛者，与小柴胡汤。若喘，与麻黄汤。
+第三十八条 太阳中风，脉浮紧，发热恶寒，身疼痛，不汗出而烦躁者，大青龙汤主之。若脉微弱，汗出恶风者，不可服之，服之则厥逆，筋惕肉瞤，此为逆也。
+Article 38 For Taiyang Zhongfeng (Wind-strike in the Taiyang stage), when the pulse is floating and tight, with fever, aversion to cold, generalized body aches, absence of sweating, and irritability, Decoction of the Great Blue Dragon (Da Qing Long Tang) is indicated.
+If the pulse is weak, with spontaneous sweating and aversion to wind, this formula must not be used; taking it in such a condition will cause collapse with cold extremities, trembling of the sinews, and muscle twitching — this is called counterflow (an adverse reaction).
+大青龙汤方 麻黄六两（去节） 桂枝二两（去皮） 甘草二两（炙） 杏仁四十枚（去皮尖） 生姜三两（切） 大枣十枚（擘） 石膏如鸡子大（碎）
+Da Qing Long Tang (Decoction of the Great Blue Dragon) Ingredients (with modern metric weights)
+Ephedra (Ma Huang) – 6 liang → ≈ 78 g, stems with nodes removed
+Cinnamon Twig (Gui Zhi) – 2 liang → ≈ 26 g, bark removed
+Honey-fried Licorice (Zhi Gan Cao) – 2 liang → ≈ 26 g
+Apricot Kernel (Xing Ren) – 40 pieces → ≈ 10–12 g
+Fresh Ginger (Sheng Jiang) – 3 liang → ≈ 39 g, sliced
+Jujube (Da Zao) – 10 pieces → ≈ 10–15 g (about 10 pieces)
+Gypsum (Shi Gao) – size of a chicken egg → ≈ 40 g, crushed
+上七味，以水九升，先煮麻黄，减二升，去上沫，内诸药，煮取三升，去滓，温服一升，取微似汗。汗出多者，温粉粉之。一服者，停后服。若再服，汗多亡阳遂虚，恶风，烦躁，不得眠也。
+Boil the above seven ingredients in 9 sheng of water. First decoct Ephedra (Ma Huang) alone, and when the water is reduced by 2 sheng, remove the floating froth on top. Then add the remaining herbs and continue boiling until 3 sheng remain. Strain out the dregs.
+Take 1 sheng warm per dose, aiming to produce a slight sweat. If the sweating becomes excessive, apply warm powder to the skin to help stabilize the exterior. 
+If one dose produces sweating, the next dose should be withheld. If another dose is taken and excessive sweating occurs, yang may be damaged and become deficient, leading to aversion to wind, irritability, and inability to sleep.
