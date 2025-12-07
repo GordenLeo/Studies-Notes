@@ -306,3 +306,21 @@ Gypsum (Shi Gao) – size of a chicken egg → ≈ 40 g, crushed
 Boil the above seven ingredients in 9 sheng of water. First decoct Ephedra (Ma Huang) alone, and when the water is reduced by 2 sheng, remove the floating froth on top. Then add the remaining herbs and continue boiling until 3 sheng remain. Strain out the dregs.
 Take 1 sheng warm per dose, aiming to produce a slight sweat. If the sweating becomes excessive, apply warm powder to the skin to help stabilize the exterior. 
 If one dose produces sweating, the next dose should be withheld. If another dose is taken and excessive sweating occurs, yang may be damaged and become deficient, leading to aversion to wind, irritability, and inability to sleep.
+第三十九条 伤寒脉浮缓，身不疼但重，乍有轻时，无少阴证者，大青龙汤发之。
+Article 39 In cold damage (shanghan), when the pulse is floating and moderate, the body is not painful but feels heavy, and the symptoms sometimes lessen temporarily, if there are no signs of Shaoyin disorder, the condition should be treated by inducing sweating with Da Qing Long Tang.
+第四十条 伤寒表不解，心下有水气，干呕发热而咳，或渴，或利，或噎，或小便不利，少腹满，或喘者，小青龙汤主之。
+Article 40 In cold damage (shanghan) where the exterior has not yet been resolved, and there is retained fluid beneath the heart, with dry vomiting, fever, and cough — or thirst, or diarrhea, or difficulty in swallowing, or difficulty in urination, fullness in the lower abdomen, or wheezing — Xiao Qing Long Tang (Minor Blue-Green Dragon Decoction) is indicated.
+小青龙汤方 麻黄三两（去节） 芍药三两 干姜三两 五味子半升 甘草三两（炙） 桂枝三两（去皮） 半夏半升（洗） 细辛三两
+Xiao Qing Long Tang — Ingredients:
+Ephedra (Ma Huang) 3 liang (≈39 g), nodes removed
+Peony root (Shao Yao) 3 liang (≈39 g)
+Dried Ginger (Gan Jiang) 3 liang (≈39 g)
+Schisandra (Wu Wei Zi) half-sheng (≈50 g)
+Honey-fried Licorice (Zhi Gan Cao) 3 liang (≈39 g)
+Cinnamon Twig (Gui Zhi) 3 liang (≈39 g), bark removed
+Pinellia, washed (Ban Xia) half-sheng (≈50 g)
+Asarum (Xi Xin) 3 liang (≈39 g)
+上八味，以水一斗，先煮麻黄，减二升，去上沫，内诸药，煮取三升，去滓，温服一升。
+Boil the above eight ingredients in 1 dou of water.
+First decoct Ephedra (Ma Huang) alone; when the water has been reduced by 2 sheng, remove the froth on top.
+Then add the remaining herbs and continue boiling until 3 sheng remain. Strain out the dregs and take 1 sheng warm per dose.
