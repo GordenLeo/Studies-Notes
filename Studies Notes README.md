@@ -324,3 +324,5 @@ Asarum (Xi Xin) 3 liang (≈39 g)
 Boil the above eight ingredients in 1 dou of water.
 First decoct Ephedra (Ma Huang) alone; when the water has been reduced by 2 sheng, remove the froth on top.
 Then add the remaining herbs and continue boiling until 3 sheng remain. Strain out the dregs and take 1 sheng warm per dose.
+第四十一条 伤寒心下有水气，咳而微喘，发热不渴。服汤已渴者，此寒去欲解也。小青龙汤主之。
+第四十二条 太阳病，外证未解，脉浮弱者，当以汗解，宜桂枝汤。
