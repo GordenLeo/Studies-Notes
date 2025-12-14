@@ -325,4 +325,10 @@ Boil the above eight ingredients in 1 dou of water.
 First decoct Ephedra (Ma Huang) alone; when the water has been reduced by 2 sheng, remove the froth on top.
 Then add the remaining herbs and continue boiling until 3 sheng remain. Strain out the dregs and take 1 sheng warm per dose.
 第四十一条 伤寒心下有水气，咳而微喘，发热不渴。服汤已渴者，此寒去欲解也。小青龙汤主之。
+Article 41 In cold damage disease, when there is retained water below the heart, accompanied by cough with mild wheezing, fever, and no thirst, Xiao Qinglong Decoction is indicated. If thirst develops after taking the decoction, this means that the cold has been dispelled and the condition is about to resolve.
 第四十二条 太阳病，外证未解，脉浮弱者，当以汗解，宜桂枝汤。
+Article 42 In Taiyang disease, when the exterior symptoms have not yet resolved and the pulse is floating and weak, the condition should be relieved by inducing sweating; Gui Zhi Decoction is appropriate.
+第四十三条 太阳病，下之微喘者，表未解也，桂枝加厚朴杏子汤主之。
+Article 43 In Taiyang disease, if after purgation there is slight wheezing, this indicates that the exterior syndrome has not been resolved. Cinnamon Twig Decoction plus Magnolia Bark and Apricot Kernel (Gui Zhi Jia Hou Po Xing Zi Tang) governs.
+第四十五条 太阳病，先发汗不解，而复下之，脉浮者不愈。浮为在外，而反下之，故令不愈。今脉浮，故在外，当须解外则愈，宜桂枝汤。
+Article 45 In Taiyang disease, if sweating therapy is first applied but the condition is not resolved, and purgation is then used, the illness will not be cured when the pulse remains floating. A floating pulse indicates that the pathogen is still on the exterior; yet purgation was mistakenly applied, therefore the disease is not resolved. Now that the pulse is floating, the pathogen is still on the exterior, and the exterior should be released; recovery will follow. Guizhi Decoction is appropriate.
