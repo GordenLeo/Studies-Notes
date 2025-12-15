@@ -344,3 +344,7 @@ If the patient’s facial complexion appears uniformly and brightly red, this in
 If sweating is still incomplete, this cannot be considered adequate. When Yang qi is constrained and unable to vent outward, sweating that should occur does not occur. The patient then becomes restless and agitated, unable to localize the pain—at times it seems to be in the abdomen, at times in the limbs; palpation reveals nothing definite. The patient also experiences shortness of breath. All of this is due to incomplete sweating.
 If sweating is induced again, the patient will recover.
 How do we know that sweating was incomplete? It is known by the presence of a choppy (rough) pulse.
+第四十九条 脉浮数者，法当汗出而愈。若下之，身重心悸者，不可发汗，当自汗出乃解。所以然者，尺中脉微，此里虚。须表里实，津液自和，便自汗出愈。
+第五十条 脉浮紧者，法当身疼痛，宜以汗解之。假令尺中迟者，不可发汗。何以知然？以荣气不足，血少故也。
+第五十一条 脉浮者，病在表，可发汗，宜麻黄汤。
+第五十二条 脉浮而数者，可发汗，宜麻黄汤。
