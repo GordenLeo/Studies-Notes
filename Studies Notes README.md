@@ -345,8 +345,17 @@ If sweating is still incomplete, this cannot be considered adequate. When Yang q
 If sweating is induced again, the patient will recover.
 How do we know that sweating was incomplete? It is known by the presence of a choppy (rough) pulse.
 第四十九条 脉浮数者，法当汗出而愈。若下之，身重心悸者，不可发汗，当自汗出乃解。所以然者，尺中脉微，此里虚。须表里实，津液自和，便自汗出愈。
+Article 49 When the pulse is floating and rapid, sweating should occur and recovery follow.
+If purgation is applied instead, resulting in body heaviness and palpitations, sweating must not be induced. Spontaneous sweating will resolve the condition. This is because the cubital pulse is faint, indicating interior deficiency. When both exterior and interior are replete and fluids harmonize, sweating occurs naturally and recovery follows.
 第五十条 脉浮紧者，法当身疼痛，宜以汗解之。假令尺中迟者，不可发汗。何以知然？以荣气不足，血少故也。
+Article 50 When the pulse is floating and tight, the usual presentation is generalized body pain, and sweating should be induced to resolve it. However, if the Chi (cubital) pulse is slow, sweating must not be induced. Why is this so? Because the nutritive qi is deficient and the blood is insufficient.
 第五十一条 脉浮者，病在表，可发汗，宜麻黄汤。
+Article 51 When the pulse is floating, the disease is located in the exterior. Sweating therapy is appropriate. Ma Huang Decoction is indicated.
 第五十二条 脉浮而数者，可发汗，宜麻黄汤。
+Article 52 When the pulse is floating and rapid, sweating may be induced. Mahuang Decoction is indicated.
 第五十三条 病常自汗出者，此为荣气和，荣气合者，外不谐，以外气不共荣气谐和故尔，以荣行脉中，卫行脉外，复发其汗，荣卫和则愈，宜桂枝汤。
+Article 53 When a patient habitually has spontaneous sweating, this indicates that the nutritive qi (Ying qi) is in harmony. However, although the nutritive qi is harmonious, the exterior is not regulated, because the exterior qi (defensive qi) is not in coordination with the nutritive qi.
+The nutritive qi circulates within the vessels, while the defensive qi circulates outside the vessels.
+If sweating is induced again, once the nutritive and defensive qi are brought into harmony, the disease will resolve. Cinnamon Twig Decoction (Guizhi Tang) is indicated.
 第五十四条 病人藏无他病，时发热自汗出而不愈者，此卫气不和也。先其时发汗则愈，宜桂枝汤。
+Article 54 If a patient has no other internal disorders, yet experiences intermittent fever with spontaneous sweating that does not resolve, this indicates a disharmony of the defensive (wei) qi. If sweating is induced before the expected onset of the fever, the condition will resolve. Guizhi Decoction (Cinnamon Twig Decoction) is indicated.
