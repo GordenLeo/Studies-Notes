@@ -359,3 +359,9 @@ The nutritive qi circulates within the vessels, while the defensive qi circulate
 If sweating is induced again, once the nutritive and defensive qi are brought into harmony, the disease will resolve. Cinnamon Twig Decoction (Guizhi Tang) is indicated.
 第五十四条 病人藏无他病，时发热自汗出而不愈者，此卫气不和也。先其时发汗则愈，宜桂枝汤。
 Article 54 If a patient has no other internal disorders, yet experiences intermittent fever with spontaneous sweating that does not resolve, this indicates a disharmony of the defensive (wei) qi. If sweating is induced before the expected onset of the fever, the condition will resolve. Guizhi Decoction (Cinnamon Twig Decoction) is indicated.
+第五十五条 伤寒脉浮紧，不发汗，因致衄者，麻黄汤主之。
+Article 55 In cold damage disease, when the pulse is floating and tight, and sweating has not been induced, leading to epistaxis, Ma Huang Tang is appropriate.
+第五十六条 伤寒不大便六七日，头痛而热者，与承气汤。其小便清者，知不在里，仍在表也，当须发汗。若头痛者，必衄，宜桂枝汤。
+Article 56 In cold damage, if there has been no bowel movement for six or seven days accompanied by headache and fever, Chengqi Decoction should be given. If the urine is clear, this indicates that the disease is not in the interior but remains in the exterior, and sweating should be induced. If headache is present, epistaxis will occur. Guizhi Decoction is appropriate.
+第五十七条 伤寒发汗已解，半日许复烦，脉浮数者，可更发汗，宜桂枝汤。
+Article 57 In cold damage disease, after sweating has resolved the condition, if restlessness returns after about half a day and the pulse is floating and rapid, sweating may be induced again. Gui Zhi Tang is appropriate.
