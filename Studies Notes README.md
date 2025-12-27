@@ -380,3 +380,18 @@ Dried Ginger (Gan Jiang) — 1 liang (≈ 3 g)
 Aconite root (Fu Zi) — 1 piece (used raw, peeled, sliced into eight pieces; ≈ 10–15 g, depending on size and processing)
 上二味，以水三升，煮取一升，去滓，顿服。
 The two ingredients are decocted with 3 sheng of water (≈ 600 mL), boiled down to 1 sheng (≈ 200 mL). The decoction is strained, and the entire dose is taken at once while warm.
+第六十二条 发汗后，身疼痛，脉沉迟者，桂枝加芍药生姜各一两、人参三两新加汤主之。
+Article 62 After diaphoresis, if the patient experiences body pain and the pulse is deep and slow, the condition should be treated with Guizhi Decoction Newly Modified with Added Shaoyao, Shengjiang, and Renshen.
+桂枝加芍药生姜各一两人参三两新加汤方
+Guizhi Decoction Newly Modified with Shaoyao, Shengjiang, and Renshen
+桂枝三两（去皮） 芍药四两 甘草二两（炙） 人参三两 大枣十二枚（擘） 生姜四两
+Guizhi (Cinnamon Twig) – 3 liang ≈ 9 g (peeled)
+Shaoyao (Paeonia Root) – 4 liang ≈ 12 g
+Gancao (Honey-fried Licorice Root) – 2 liang ≈ 6 g
+Renshen (Ginseng Root) – 3 liang ≈ 9 g
+Dazao (Jujube Fruit) – 12 pieces (approx. 30–40 g), split
+Shengjiang (Fresh Ginger) – 4 liang ≈ 12 g
+上六味，以水一斗二升，煮取三升，去滓，温服一升。本云：桂枝汤，今加芍药、生姜、人参。
+Take the above six ingredients and decoct them in 1 dou and 2 sheng of water
+(approximately 2,400 mL). Boil until 3 sheng remain (approximately 600 mL). Remove the dregs and take 1 sheng (approximately 200 mL) warm per dose.
+Originally this was the Guizhi Decoction; in this formulation, Shaoyao, Shengjiang, and Renshen are added.
