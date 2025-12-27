@@ -365,3 +365,9 @@ Article 55 In cold damage disease, when the pulse is floating and tight, and swe
 Article 56 In cold damage, if there has been no bowel movement for six or seven days accompanied by headache and fever, Chengqi Decoction should be given. If the urine is clear, this indicates that the disease is not in the interior but remains in the exterior, and sweating should be induced. If headache is present, epistaxis will occur. Guizhi Decoction is appropriate.
 第五十七条 伤寒发汗已解，半日许复烦，脉浮数者，可更发汗，宜桂枝汤。
 Article 57 In cold damage disease, after sweating has resolved the condition, if restlessness returns after about half a day and the pulse is floating and rapid, sweating may be induced again. Gui Zhi Tang is appropriate.
+第五十八条 凡病，若发汗，若吐，若下，若亡血，亡津液，阴阳自和者，必自愈。
+Article 58 In all diseases, whether sweating, vomiting, purgation, loss of blood, or loss of body fluids has occurred—if yin and yang become harmonized naturally, recovery will surely follow.
+第五十九条 大下之后，复发汗，小便不利者，亡津液故也。勿治之，得小便利，必自愈。
+Article 59 After excessive purgation followed by sweating, if there is difficulty in urination, this is due to loss of body fluids. Do not treat it; once urination becomes smooth, recovery will follow naturally.
+第六十条 下之后，复发汗，必振寒，脉微细。所以然者，以内外俱虚故也。
+Article 60 After purgation followed by sweating, the patient will surely develop shivering and cold extremities, with a faint and fine pulse. This occurs because both the interior and exterior are deficient.
