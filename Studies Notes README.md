@@ -371,3 +371,12 @@ Article 58 In all diseases, whether sweating, vomiting, purgation, loss of blood
 Article 59 After excessive purgation followed by sweating, if there is difficulty in urination, this is due to loss of body fluids. Do not treat it; once urination becomes smooth, recovery will follow naturally.
 第六十条 下之后，复发汗，必振寒，脉微细。所以然者，以内外俱虚故也。
 Article 60 After purgation followed by sweating, the patient will surely develop shivering and cold extremities, with a faint and fine pulse. This occurs because both the interior and exterior are deficient.
+第六十一条 下之后，复发汗，昼日烦躁不得眠，夜而安静，不呕，不渴，无表征，脉沉微，身无大热者，干姜附子汤主之。
+Article 61 After purgation, if sweating is induced again, and the patient becomes restless and irritable during the daytime and is unable to sleep, yet becomes calm and quiet at night, with no vomiting, no thirst, no exterior signs, a deep and faint pulse, and no marked body heat, Gan Jiang Fu Zi Tang (Dried Ginger and Aconite Decoction) governs.
+干姜附子汤
+Ganjiang Fuzi Decoction
+干姜一两 附子一枚（生用，去皮，切八片）
+Dried Ginger (Gan Jiang) — 1 liang (≈ 3 g)
+Aconite root (Fu Zi) — 1 piece (used raw, peeled, sliced into eight pieces; ≈ 10–15 g, depending on size and processing)
+上二味，以水三升，煮取一升，去滓，顿服。
+The two ingredients are decocted with 3 sheng of water (≈ 600 mL), boiled down to 1 sheng (≈ 200 mL). The decoction is strained, and the entire dose is taken at once while warm.
