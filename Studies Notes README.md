@@ -395,3 +395,14 @@ Shengjiang (Fresh Ginger) – 4 liang ≈ 12 g
 Take the above six ingredients and decoct them in 1 dou and 2 sheng of water
 (approximately 2,400 mL). Boil until 3 sheng remain (approximately 600 mL). Remove the dregs and take 1 sheng (approximately 200 mL) warm per dose.
 Originally this was the Guizhi Decoction; in this formulation, Shaoyao, Shengjiang, and Renshen are added.
+第六十三条 发汗后，不可更行桂枝汤，汗出而喘，无大热者，可与麻黄杏仁甘草石膏汤。
+Article 63 After diaphoresis has been induced, Guizhi Decoction should not be administered again. If sweating continues and the patient develops dyspnea, without marked high fever, Mahuang–Xingren–Gancao–Shigao Decoction may be given.
+麻黄杏仁甘草石膏汤方
+麻黄四两（去节） 杏仁五十个（去皮、尖） 甘草二两（炙） 石膏半斤（碎，绵裹）
+Mahuang (Ephedra herba), 4 liang (nodes removed) ≈ 60–65 g
+Xingren (Apricot kernel), 50 pieces (peeled, tips removed) ≈ 30–35 g
+Gancao (Honey-fried Licorice root), 2 liang ≈ 30–32 g
+Shigao (Gypsum fibrosum), ½ jin (= 8 liang), （crushed and wrapped in cloth） ≈ 120–130 g
+上四味，以水七升，煮麻黄，减二升，去上沫，内诸药，煮取二升，去滓，温服一升。
+The four ingredients are decocted with 7 sheng of water (approximately 1,400 mL).
+First, decoct Mahuang alone until the volume is reduced by 2 sheng (approximately 400 mL), then skim off the surface foam. Next, add the remaining ingredients and continue decocting until 2 sheng (approximately 400 mL) remain. Remove the dregs and take 1 sheng (approximately 200 mL) warm per dose.
