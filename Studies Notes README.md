@@ -407,15 +407,36 @@ Shigao (Gypsum fibrosum), ½ jin (= 8 liang), （crushed and wrapped in cloth）
 The four ingredients are decocted with 7 sheng of water (approximately 1,400 mL).
 First, decoct Mahuang alone until the volume is reduced by 2 sheng (approximately 400 mL), then skim off the surface foam. Next, add the remaining ingredients and continue decocting until 2 sheng (approximately 400 mL) remain. Remove the dregs and take 1 sheng (approximately 200 mL) warm per dose.
 第六十四条 发汗过多，其人叉手自冒心，心下悸，欲得按者，桂枝甘草汤主之。
+Article 64 After excessive diaphoresis, the patient crosses the hands over the chest as if protecting the heart, experiences palpitations below the heart, and desires pressure to relieve the discomfort. This condition is governed by Guizhi–Gancao Decoction.
 桂枝甘草汤方
+Guizhi–Gancao Decoction
 桂枝四两（去皮） 甘草二两（炙）
+Guizhi (Cinnamon twig), 4 liang (peeled) ≈ 60–65 g
+Gancao (Honey-fried Licorice root), 2 liang ≈ 30–32 g
 上二味，以水三升，煮取一升，去滓，顿服。
+The two ingredients are decocted with 3 sheng of water (approximately 600 mL) and boiled down to 1 sheng (approximately 200 mL). Remove the dregs and take the decoction in a single dose while warm.
 第六十五条 发汗后，其人脐下悸者，欲作奔豚，茯苓桂枝甘草大枣汤主之。
+After diaphoresis, if the patient experiences palpitations below the umbilicus, with a sensation suggesting the impending onset of Running Piglet Qi (Ben Tun), Fuling–Guizhi–Gancao–Dazao Decoction is indicated.
 茯苓规制甘草大枣汤方
+Fuling–Guizhi–Gancao–Dazao Decoction
 茯苓半斤 桂枝四两（去皮） 甘草二两（炙） 大枣十五枚（擘）
+Fuling (Poria), ½ jin ≈ 120–130 g
+Guizhi (Cinnamon twig), 4 liang (peeled) ≈ 60–65 g
+Gancao (Honey-fried Licorice root), 2 liang ≈ 30–32 g
+Dazao (Jujube fruit), 15 pieces, split ≈ 40–50 g
 上四味，以甘澜水一抖，先煮茯苓，减二升，内诸药，煮取三升，去滓，温服一升，日三服。
+The four ingredients are decocted using Ganlan Water, 1 dou (approximately 2,000 mL). First, decoct Fuling alone until the volume is reduced by 2 sheng (approximately 400 mL). Then add the remaining ingredients and continue decocting until 3 sheng remain (approximately 600 mL). Remove the dregs and take 1 sheng (approximately 200 mL) warm per dose, three times daily.
 作甘澜水法：取水二斗，置大盆内，以杓扬之，水上有珠子五六千颗相逐，取用之。
+Take 2 dou of water (approximately 4,000 mL) and place it in a large basin. Using a ladle, repeatedly scoop and pour the water back into the basin. When five to six thousand pearl-like bubbles appear on the surface and chase one another, the water is ready for use.
 第六十六条 发汗后，腹胀满者，厚朴生姜半夏甘草人参汤主之。
+Article 66 After diaphoresis, if the patient develops abdominal distension and fullness, Houpo–Shengjiang–Banxia–Gancao–Renshen Decoction is indicated.
 厚朴生姜半夏甘草人参汤方
+Houpo–Shengjiang–Banxia–Gancao–Renshen Decoction
 厚朴半斤（炙，去皮） 生姜半斤（切） 半夏半升（洗） 甘草二两（炙） 人参一两
+Houpo (Magnolia bark), ½ jin (honey-roasted, peeled) ≈ 120–130 g
+Shengjiang (Fresh ginger), ½ jin (sliced) ≈ 120–130 g
+Banxia (Pinellia rhizome), ½ sheng (washed) ≈ 100 mL by volume (≈ 15–20 g in dried weight, depending on processing)
+Gancao (Honey-fried Licorice root), 2 liang ≈ 30–32 g
+Renshen (Ginseng root), 1 liang ≈ 15–16 g
 上五味，以水一抖，煮取三升，去滓，温服一升，日三服。
+The five ingredients are decocted with 1 dou of water (approximately 2,000 mL), boiled down to 3 sheng (approximately 600 mL). Remove the dregs and take 1 sheng (approximately 200 mL) warm per dose, three times daily.
