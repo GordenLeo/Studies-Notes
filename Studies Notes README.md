@@ -440,3 +440,15 @@ Gancao (Honey-fried Licorice root), 2 liang ≈ 30–32 g
 Renshen (Ginseng root), 1 liang ≈ 15–16 g
 上五味，以水一抖，煮取三升，去滓，温服一升，日三服。
 The five ingredients are decocted with 1 dou of water (approximately 2,000 mL), boiled down to 3 sheng (approximately 600 mL). Remove the dregs and take 1 sheng (approximately 200 mL) warm per dose, three times daily.
+第六十七条 伤寒若吐、若下后，心下逆满，气上冲胸，起则头眩，脉沉紧，发汗则动经，身为振振摇者，茯苓桂枝白术甘草汤主之。
+Article 67 In cold damage disease, after vomiting or purgation, if there is counterflow fullness below the heart, with qi surging upward to the chest, dizziness upon standing, a deep and tight pulse, and if inducing sweating would stir the channels and cause the body to tremble and sway, this condition is governed by Fuling–Guizhi–Baizhu–Gancao Decoction.
+茯苓桂枝白术甘草汤方
+Fuling–Guizhi–Baizhu–Gancao Decoction
+茯苓四两 桂枝三两（去皮） 白术 甘草各二两（炙）
+Fuling (Poria) — 4 liang ≈ 60–65 g
+Guizhi (Cinnamon twig), peeled — 3 liang ≈ 45–48 g
+Baizhu (Atractylodis macrocephalae Rhizoma) — 2 liang ≈ 30–32 g
+Gancao (Honey-fried Licorice root) — 2 liang ≈ 30–32 g
+Preparation and Administration
+上四味，以水六升，煮取三升，去滓，分温三服。
+The four ingredients are decocted with 6 sheng of water (approximately 1,200 mL), boiled down to 3 sheng (approximately 600 mL). Remove the dregs and take the decoction warm, divided into three doses.
