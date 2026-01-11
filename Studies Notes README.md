@@ -406,3 +406,16 @@ Shigao (Gypsum fibrosum), ½ jin (= 8 liang), （crushed and wrapped in cloth）
 上四味，以水七升，煮麻黄，减二升，去上沫，内诸药，煮取二升，去滓，温服一升。
 The four ingredients are decocted with 7 sheng of water (approximately 1,400 mL).
 First, decoct Mahuang alone until the volume is reduced by 2 sheng (approximately 400 mL), then skim off the surface foam. Next, add the remaining ingredients and continue decocting until 2 sheng (approximately 400 mL) remain. Remove the dregs and take 1 sheng (approximately 200 mL) warm per dose.
+第六十四条 发汗过多，其人叉手自冒心，心下悸，欲得按者，桂枝甘草汤主之。
+桂枝甘草汤方
+桂枝四两（去皮） 甘草二两（炙）
+上二味，以水三升，煮取一升，去滓，顿服。
+第六十五条 发汗后，其人脐下悸者，欲作奔豚，茯苓桂枝甘草大枣汤主之。
+茯苓规制甘草大枣汤方
+茯苓半斤 桂枝四两（去皮） 甘草二两（炙） 大枣十五枚（擘）
+上四味，以甘澜水一抖，先煮茯苓，减二升，内诸药，煮取三升，去滓，温服一升，日三服。
+作甘澜水法：取水二斗，置大盆内，以杓扬之，水上有珠子五六千颗相逐，取用之。
+第六十六条 发汗后，腹胀满者，厚朴生姜半夏甘草人参汤主之。
+厚朴生姜半夏甘草人参汤方
+厚朴半斤（炙，去皮） 生姜半斤（切） 半夏半升（洗） 甘草二两（炙） 人参一两
+上五味，以水一抖，煮取三升，去滓，温服一升，日三服。
