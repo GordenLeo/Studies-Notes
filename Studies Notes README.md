@@ -452,3 +452,16 @@ Gancao (Honey-fried Licorice root) — 2 liang ≈ 30–32 g
 Preparation and Administration
 上四味，以水六升，煮取三升，去滓，分温三服。
 The four ingredients are decocted with 6 sheng of water (approximately 1,200 mL), boiled down to 3 sheng (approximately 600 mL). Remove the dregs and take the decoction warm, divided into three doses.
+第六十九条 发汗，若下之，病仍不解，烦躁者，茯苓四逆汤主之。
+Article 69 After inducing sweating, if purgation is applied but the disease remains unresolved, and the patient is restless,
+this condition is governed by Fuling–Sini Decoction (Fuling Sini Tang).
+茯苓四逆汤方
+Fuling Sini Decoction
+茯苓四两 人参一两 附子一枚（生用、去皮，破八片） 甘草二两（炙） 干姜一两半
+Fuling (Poria) — 4 liang ≈ 60–65 g
+Renshen (Ginseng root) — 1 liang ≈ 15–16 g
+Fuzi (Aconiti Lateralis Radix Praeparata), 1 piece (raw, peeled, cut into 8 pieces) ≈ 15–20 g per piece (approximate)
+Gancao (Honey-fried Licorice root) — 2 liang ≈ 30–32 g
+Ganjiang (Dried Ginger) — 1½ liang ≈ 22–24 g
+上五味，以水五升，煮取三升，去滓，温服七合，日二服。
+The five ingredients are decocted with 5 sheng of water (approximately 1,000 mL), boiled down to 3 sheng (approximately 600 mL). Remove the dregs and take 7 he (≈ 350 mL) warm per dose, twice daily.
