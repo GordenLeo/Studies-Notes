@@ -465,3 +465,24 @@ Gancao (Honey-fried Licorice root) — 2 liang ≈ 30–32 g
 Ganjiang (Dried Ginger) — 1½ liang ≈ 22–24 g
 上五味，以水五升，煮取三升，去滓，温服七合，日二服。
 The five ingredients are decocted with 5 sheng of water (approximately 1,000 mL), boiled down to 3 sheng (approximately 600 mL). Remove the dregs and take 7 he (≈ 350 mL) warm per dose, twice daily.
+第七十条 发汗后，恶寒者，虚故也。不恶寒，但热者，实也，当和其胃，与调胃承气汤。
+Article 70 After sweating therapy, if the patient still experiences aversion to cold, this indicates deficiency. If there is no aversion to cold, but only fever, this indicates excess.
+In such a case, one should harmonize the stomach qi, and Regulate-the-Stomach Chengqi Decoction (Tiaowei Chengqi Tang) is indicated.
+第七十一条  太阳病，发汗后，大汗出，胃中干，烦躁不得眠，欲得饮水者，少少与饮之，令胃气和则愈。若脉浮，小便不利，微热消渴者，五苓散主之。
+五苓散方
+猪苓十八铢（去皮） 泽泻一两六铢 白术十八铢 茯苓十八铢 桂枝半两（去皮）
+上五味，捣为散，以白饮和服方寸匕，日三服。多饮暖水，汗出愈，如法降息。
+Article 71 In Taiyang disease, after sweating therapy, if there is profuse sweating, resulting in dryness in the stomach, restlessness and inability to sleep, and the patient desires to drink water, small amounts of water should be given repeatedly.
+When the stomach qi becomes harmonized, recovery will follow.
+However, if the pulse is floating, urination is difficult, there is slight fever, and wasting-thirst (xiao ke) is present, Wuling Powder (Wuling San) is indicated.
+Wuling Powder (五苓散, Wuling San)
+Zhuling (Polyporus umbellatus), 18 zhu (peeled) ≈ 3.5–4 g
+Zexie (Alismatis Rhizoma), 1 liang 6 zhu ≈ 7–8 g
+Baizhu (Atractylodis macrocephalae Rhizoma), 18 zhu ≈ 3.5–4 g
+Fuling (Poria), 18 zhu ≈ 3.5–4 g
+Guizhi (Cinnamon twig), ½ liang (peeled) ≈ 7–8 g
+Preparation and Administration
+The five ingredients are pounded into a fine powder.
+Take one square-inch spoonful (fangcunbi, approximately 1.5–2 g) mixed with plain rice drink (baiyin) per dose, three times daily.
+The patient should drink plenty of warm water afterward.
+If sweating occurs, recovery will follow, just as when the illness subsides naturally.
