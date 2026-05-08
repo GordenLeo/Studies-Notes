@@ -486,3 +486,31 @@ The five ingredients are pounded into a fine powder.
 Take one square-inch spoonful (fangcunbi, approximately 1.5–2 g) mixed with plain rice drink (baiyin) per dose, three times daily.
 The patient should drink plenty of warm water afterward.
 If sweating occurs, recovery will follow, just as when the illness subsides naturally.
+第七十二条 发汗已，脉浮数，烦渴者，五苓散主之。
+Article 72 After sweating therapy, if the pulse is floating and rapid, with restlessness and thirst, Wuling Powder (Wuling San) is indicated.
+第七十三条 伤寒汗出而渴者，五苓散主之；不渴者，茯苓甘草汤主之。
+Article 73 In cold damage disease, if sweating is present together with thirst, Wuling Powder (Wuling San) is indicated. If there is sweating but no thirst, Fuling–Gancao Decoction is indicated.
+茯苓甘草汤方
+茯苓二两 桂枝二两（去皮） 甘草一两（炙） 生姜三两（切）
+Fuling–Gancao Decoction
+Fuling (Poria) — 2 liang ≈ 30–32 g
+Guizhi (Cinnamon twig), peeled — 2 liang ≈ 30–32 g
+Gancao (Honey-fried Licorice root) — 1 liang ≈ 15–16 g
+Shengjiang (Fresh ginger), sliced — 3 liang ≈ 45–48 g
+上四味，一水四升，煮取二升，去滓，分温三服。
+Preparation and Administration
+The four ingredients are decocted with 4 sheng of water (approximately 800 mL), boiled down to 2 sheng (approximately 400 mL). Remove the dregs and divide the decoction into three warm doses.
+第七十四条 中风发热，六七日不解而烦，有表里证，渴欲饮水，水入则吐者，名曰水逆，五苓散主之。
+Article 74 In wind-strike disorder (Zhongfeng), if fever persists unresolved for six or seven days and the patient becomes restless, with both exterior and interior signs present, thirst with a desire to drink water, yet vomiting immediately after water enters, this condition is termed Water Reversal (Shui Ni). Wuling Powder (Wuling San) is indicated.
+第七十五条 未持脉时，病人手叉自冒心，师因教试令欬，而不欬者，此必两耳聋无闻也，所以然者，以重发汗，虚故如此。发汗后，饮水多必喘，以水灌之亦喘。
+Article 75 Before taking the pulse, if the patient places the hands crossed over the chest as if protecting the heart, the physician may instruct the patient to cough as a test. If the patient does not cough, this indicates that both ears are deaf and unable to hear. The reason for this condition is excessive repeated sweating, resulting in deficiency. After sweating therapy, excessive drinking of water will inevitably cause dyspnea; even forcibly pouring water into the patient will also produce dyspnea.
+第七十六条 发汗后，水药不得入口为逆，若更发汗，必吐下不止。发汗吐下后，虚烦不得眠，若剧者，必反复颠倒，心中懊憹，栀子豉汤主之；若少气者，栀子甘草豉汤主之；若呕者，栀子生姜豉汤主之。
+栀子豉汤方
+栀子十四个（擘） 香豉四合（绵裹）
+上二味，以水四升，先煮栀子，得二升半，内豉，煮取一升半，去滓，分为二服，温进一服。得吐者，止后服。
+栀子甘草豉汤方
+栀子十四个（擘） 甘草二两（炙） 香豉四合（绵裹）
+上三味，以水四升，先煮栀子、甘草，取二升半，内豉，煮取一升半，去滓，温进一服。得吐者，止后服。
+栀子生姜豉汤方
+栀子十四个（擘） 生姜五两 香豉四合（绵裹）
+上三味，以水四升，先煮栀子、生姜，取二升半，内豉，煮取一升半，去滓，分二服。得吐者，止后服。
