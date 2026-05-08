@@ -505,12 +505,51 @@ Article 74 In wind-strike disorder (Zhongfeng), if fever persists unresolved for
 第七十五条 未持脉时，病人手叉自冒心，师因教试令欬，而不欬者，此必两耳聋无闻也，所以然者，以重发汗，虚故如此。发汗后，饮水多必喘，以水灌之亦喘。
 Article 75 Before taking the pulse, if the patient places the hands crossed over the chest as if protecting the heart, the physician may instruct the patient to cough as a test. If the patient does not cough, this indicates that both ears are deaf and unable to hear. The reason for this condition is excessive repeated sweating, resulting in deficiency. After sweating therapy, excessive drinking of water will inevitably cause dyspnea; even forcibly pouring water into the patient will also produce dyspnea.
 第七十六条 发汗后，水药不得入口为逆，若更发汗，必吐下不止。发汗吐下后，虚烦不得眠，若剧者，必反复颠倒，心中懊憹，栀子豉汤主之；若少气者，栀子甘草豉汤主之；若呕者，栀子生姜豉汤主之。
+Article 76 After sweating therapy, if the patient is unable to take water or medicine by mouth, this is termed a counterflow condition (ni).
+If sweating is further induced, persistent vomiting and diarrhea will inevitably occur. After sweating, vomiting, or purgation, if the patient develops deficiency vexation (xu fan) with inability to sleep, and in severe cases becomes repeatedly restless and unsettled, with oppression and agitation in the chest and epigastrium, Zhizi–Chi Decoction is indicated.
+If there is shortness of breath, Zhizi–Gancao–Chi Decoction is indicated.
+If there is vomiting, Zhizi–Shengjiang–Chi Decoction is indicated.
 栀子豉汤方
 栀子十四个（擘） 香豉四合（绵裹）
+Zhizi–Chi Decoction
+Zhizi (Gardeniae Fructus) — 14 fruits, split ≈ 25–35 g
+Xiangchi (prepared fermented soybean, wrapped in cloth) — 4 he ≈ 80 mL by volume (approximately 20–30 g, depending on preparation)
 上二味，以水四升，先煮栀子，得二升半，内豉，煮取一升半，去滓，分为二服，温进一服。得吐者，止后服。
+Decoct with 4 sheng of water (approximately 800 mL). First boil Zhizi until 2.5 sheng remain (approximately 500 mL). Then add the fermented soybean and continue decocting until 1.5 sheng remain (approximately 300 mL). Remove the dregs and divide into two doses. Administer one warm dose first. If vomiting occurs, discontinue the remaining dose.
 栀子甘草豉汤方
 栀子十四个（擘） 甘草二两（炙） 香豉四合（绵裹）
+Zhizi–Gancao–Chi Decoction
+Zhizi (Gardeniae Fructus) — 14 fruits ≈ 25–35 g
+Gancao (Honey-fried Licorice root) — 2 liang ≈ 30–32 g
+Xiangchi (prepared fermented soybean) — 4 he ≈ 20–30 g
 上三味，以水四升，先煮栀子、甘草，取二升半，内豉，煮取一升半，去滓，温进一服。得吐者，止后服。
+Decoct with 4 sheng of water (approximately 800 mL). First boil Zhizi and Gancao until 2.5 sheng remain (approximately 500 mL). Then add the fermented soybean and continue boiling until 1.5 sheng remain (approximately 300 mL). Remove the dregs and administer one warm dose first. If vomiting occurs, discontinue the remaining dose.
 栀子生姜豉汤方
 栀子十四个（擘） 生姜五两 香豉四合（绵裹）
+Zhizi–Shengjiang–Chi Decoction
+Zhizi (Gardeniae Fructus) — 14 fruits ≈ 25–35 g
+Shengjiang (Fresh ginger) — 5 liang ≈ 75–80 g
+Xiangchi (prepared fermented soybean) — 4 he ≈ 20–30 g
 上三味，以水四升，先煮栀子、生姜，取二升半，内豉，煮取一升半，去滓，分二服。得吐者，止后服。
+Decoct with 4 sheng of water (approximately 800 mL). First boil Zhizi and Shengjiang until 2.5 sheng remain (approximately 500 mL). Then add the fermented soybean and continue boiling until 1.5 sheng remain (approximately 300 mL). Remove the dregs and divide into two doses. If vomiting occurs, discontinue the remaining dose.
+第七十七条 发汗若下之，而烦热胸中窒者，栀子豉汤主之。
+Article 77 After sweating or purgation, if the patient develops vexation, heat, and a sensation of obstruction in the chest, Zhizi–Chi Decoction is indicated.
+第七十八条 伤寒五六日，大下之后，身热不去，心中结痛者，未欲解也，栀子豉汤主之。
+Article 78 In cold damage disease, after five or six days, following major purgation, if body heat does not resolve and there is focal binding pain in the chest and epigastrium, the disease has not yet resolved. Zhizi–Chi Decoction is indicated.
+第七十九条 伤寒下后，心烦腹满，卧起不安者，栀子厚朴汤主之。
+Article 79 After purgation in cold damage disease, if the patient develops vexation in the chest, abdominal fullness, and restlessness making lying down and rising uneasy, Zhizi–Houpo Decoction is indicated.
+栀子厚朴汤方
+栀子十四个（擘） 厚朴四两（炙，去皮） 枳实四枚（水浸，炙令黄）
+Zhizi–Houpo Decoction
+Zhizi (Gardeniae Fructus) — 14 fruits ≈ 25–35 g
+Houpo (Magnolia bark), honey-roasted and peeled — 4 liang ≈ 60–65 g
+Zhishi (Immature bitter orange), 4 fruits (soaked in water and roasted until yellow) ≈ 25–35 g
+上三味，以水三升半，煮取一升半，去滓，分二服，温进一服。得吐者，止后服。
+Decoct the three ingredients with 3.5 sheng of water (approximately 700 mL), reducing to 1.5 sheng
+(approximately 300 mL). Remove the dregs and divide into two doses. Administer one warm dose first. If vomiting occurs, discontinue the remaining dose.
+第八十条 伤寒，医以丸药大下之，身热不去，微烦者，栀子干姜汤主之。
+栀子干姜汤方
+栀子十四个（擘） 干姜二两
+上二味，以水三升半，煮取一升半，去滓，分二服，温进一服。得吐者，止后服。
+第八十一条 凡用栀子汤，病人旧微溏者，不可与服之。
+第八十二条 
