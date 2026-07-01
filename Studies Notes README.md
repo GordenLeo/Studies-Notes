@@ -686,11 +686,24 @@ Shaoyao (Paeoniae Radix) — 1½ liang ≈ 22–24 g
 Dazao (Jujube Fruit) — 6 fruits, split ≈ 15–20 g
 Shengjiang (Fresh Ginger), sliced — 1½ liang ≈ 22–24 g
 Chaihu (Bupleuri Radix) — 4 liang ≈ 60–65 g
-
-
-
-
-
+The nine ingredients are decocted with 7 sheng of water (approximately 1,400 mL) and boiled down to 3 sheng (approximately 600 mL).
+Remove the dregs and administer 1 sheng (approximately 200 mL) warm per dose.
+第一百四十七条 伤寒五六日，已发汗而复下之，胸胁满微结，小便不利，渴而不呕，但头汗出，往来寒热，心烦者，此为未解也，柴胡桂枝干姜汤主之。
+柴胡桂枝干姜汤方
+柴胡半斤 桂枝三两（去皮） 干姜二两 栝楼根四两 黄芩三两 牡蛎二两（熬） 甘草二两（炙）
+上七味，以水一斗二升，煮取六升，去滓，再煎取三升，温服一升，日三服，初服微烦，复服汗出则愈。
+Article 147 In cold damage disease, after five or six days, if sweating therapy has been applied and purgation is subsequently used, and the disease still remains unresolved, there will be fullness and slight binding in the chest and hypochondrium, difficulty in urination, thirst without vomiting, and head sweating only. With alternating chills and fever and irritability, the condition is considered not yet resolved. Chaihu–Guizhi–Ganjiang Decoction (Chaihu Guizhi Ganjiang Tang) is indicated.
+Chaihu–Guizhi–Ganjiang Decoction
+Chaihu (Bupleuri Radix) — ½ jin ≈ 120–125 g
+Guizhi (Cinnamon Twig), peeled — 3 liang ≈ 45–48 g
+Ganjiang (Dried Ginger) — 2 liang ≈ 30–32 g
+Gualougen (Trichosanthis Radix) — 4 liang ≈ 60–65 g
+Huangqin (Scutellariae Radix) — 3 liang ≈ 45–48 g
+Muli (Oyster shell, calcined) — 2 liang ≈ 30–32 g
+Gancao (Honey-fried Licorice root) — 2 liang ≈ 30–32 g
+The seven ingredients are decocted with 12 sheng of water (approximately 2,400 mL) until reduced to 6 sheng (approximately 1,200 mL). The decoction is then further boiled down to 3 sheng (approximately 600 mL). Remove the dregs and administer 1 sheng (approximately 200 mL) warm per dose, three times daily.
+On the first dose, mild irritability may occur;
+with continued administration, sweating will appear and recovery follows.
 
 
 
