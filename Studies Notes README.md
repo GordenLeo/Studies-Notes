@@ -666,11 +666,26 @@ Decoct the three ingredients with 3.5 sheng of water (approximately 700 mL), red
 上三味为散，内巴豆，更于臼中杵之，以白饮和服，强人半钱匕，羸者减之。病在膈上必吐，在膈下必利。不利，进热粥一杯；利过不止，进冷粥一杯。
 第一百四十二条 太阳与少阳并病，头颈强痛，或眩冒，时如结胸，心下痞硬者，当刺大椎第一间、肺俞、肝俞，慎不可发汗。发汗则谵语，脉弦。五日谵语不止，当刺期门。
 第一百四十三条 妇人中风，发热恶寒，经水适来，得之七八日，热除而脉迟身凉。胸胁下满，如结胸状，谵语者，此为热入血室也，当刺期门，随其实而取之。
-
-
-
-
-
+第一百四十四条 妇人中风，七八日续得寒热，发作有时，经水适断者，此为热入血室，其血必结，故使如疟状，小柴胡汤主之。
+第一百四十五条 妇人伤寒，发热，经水适来，昼日明了，暮则谵语，如见鬼状者，此为热入血室，无犯胃气及上二焦，必自愈。
+Article 145 In a woman with cold damage disease, if she develops fever and menstruation has just begun, remaining clear-minded during the daytime but developing delirious speech at dusk, as if seeing ghosts, this indicates that heat has entered the Blood Chamber (Xue Shi).
+第一百四十六条 伤寒六七日，发热微恶寒，支节烦疼，微呕，心下支结，外证未去者，柴胡桂枝汤主之。
+Article 146 In cold damage disease, after six or seven days, if the patient presents with fever, slight aversion to cold, aching and pain in the limbs and joints, slight nausea, and focal fullness beneath the heart (epigastrium), while the exterior syndrome remains unresolved, Chaihu–Guizhi Decoction (Chaihu Guizhi Tang) is indicated.
+柴胡桂枝汤方
+桂枝一两半（去皮） 黄芩一两半 人参一两半 甘草一两（炙） 半夏二合半（洗） 芍药一两半 大枣六枚（擘） 生姜一两半（切） 柴胡四两
+上九味，以水七升，煮取三升，去滓，温服一升。
+Chaihu–Guizhi Decoction
+Ingredients
+(Han-dynasty medical weights with approximate metric equivalents)
+Guizhi (Cinnamon Twig), peeled — 1½ liang ≈ 22–24 g
+Huangqin (Scutellariae Radix) — 1½ liang ≈ 22–24 g
+Renshen (Ginseng Root) — 1½ liang ≈ 22–24 g
+Gancao (Honey-fried Licorice Root) — 1 liang ≈ 15–16 g
+Banxia (Pinelliae Rhizoma Preparatum), washed — 2½ he ≈ 50 mL by volume (approximately 15–20 g, depending on processing)
+Shaoyao (Paeoniae Radix) — 1½ liang ≈ 22–24 g
+Dazao (Jujube Fruit) — 6 fruits, split ≈ 15–20 g
+Shengjiang (Fresh Ginger), sliced — 1½ liang ≈ 22–24 g
+Chaihu (Bupleuri Radix) — 4 liang ≈ 60–65 g
 
 
 
