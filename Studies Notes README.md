@@ -704,8 +704,14 @@ Gancao (Honey-fried Licorice root) — 2 liang ≈ 30–32 g
 The seven ingredients are decocted with 12 sheng of water (approximately 2,400 mL) until reduced to 6 sheng (approximately 1,200 mL). The decoction is then further boiled down to 3 sheng (approximately 600 mL). Remove the dregs and administer 1 sheng (approximately 200 mL) warm per dose, three times daily.
 On the first dose, mild irritability may occur;
 with continued administration, sweating will appear and recovery follows.
-
-
+第一百四十八条 伤寒五六日，头汗出，微恶寒，手足冷，心下满，口不欲食，大便硬，脉细者，此为阳微结，必有表，复有里也。脉沉，亦在里也，汗出为阳微，假令纯阴结，不得复有外证，悉入在里。此为半在里半在外也。脉虽沉紧，不得为少阴病，所以然者，阴不得有汗，今头汗出，故知非少阴也。可与小柴胡汤。设不了了者，得屎而解。
+Article 148 In cold damage disease, after five or six days, if there is sweating confined to the head, slight aversion to cold, cold hands and feet, fullness below the heart (epigastrium), loss of appetite, hard stools, and a thready pulse, this is known as a mild Yang Binding pattern (Yang Wei Jie). There must be both an exterior syndrome and an interior syndrome.
+If the pulse is deep, this also indicates an interior disorder. The presence of sweating signifies that yang is only mildly constrained. Were it a pure Yin Binding pattern, exterior manifestations would no longer be present, and the disease would have entered the interior completely.
+Thus, this condition is half exterior and half interior.
+Although the pulse may be deep and tight, it should not be diagnosed as a Shaoyin disease. The reason is that Shaoyin disorders do not present with sweating. Since there is head sweating, it is evident that this is not a Shaoyin pattern.
+Xiaochaihu Decoction (Minor Bupleurum Decoction) may be administered.
+If the condition does not resolve completely, recovery will occur after the passage of stool.
+第一百四十九条 伤寒五六日
 
 
 
